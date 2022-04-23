@@ -18,9 +18,9 @@ async def info(client, message):
         [
             InlineKeyboardButton(
                 "Github",
-                url="https://github.com/NeuroticCoders/ShizukaChatBot"),
+                url="https://github.com/BasantiMusic/AujlaMusic"),
             InlineKeyboardButton("Maintained by",
-                                 url="https://t.me/NeuroticAssociation"),
+                                 url="https://t.me/PB_65_Aujla"),
         ],
     ]
     await SHIZUKA.send_message(
